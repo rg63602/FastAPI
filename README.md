@@ -1,2 +1,0 @@
-# FastAPI
-Fast API tutorial
